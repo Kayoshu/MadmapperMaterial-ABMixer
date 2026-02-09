@@ -8,8 +8,7 @@ Nothing changed on the automation and audio reactive part, it's the same as orig
 Added some others ISF transitions from here https://github.com/Vidvox/ISF-Files
 Mostly for test purposes (with some hardcoded parameters)
 
-Repositery will not be updated.
-Use it as a base for your own needs
+This is WIP, repositery will not be updated. Use it as a base for your own needs
 
 # Usage
 
