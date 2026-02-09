@@ -1,11 +1,14 @@
 # MadmapperMaterial-ABMixer
 
-Material for MadMapper which acts as a clasic AB mixer
+Material for MadMapper which acts as a classic AB mixer
 
 Based on "Cross Zoom Transition" 2D FX from public Library, I've found it more suited to my usage as a material
 Nothing changed on the automation and audio reactive part, it's the same as original 2D FX
 
 Added some others transitions, mostly for test purposes
+
+Repositery will not be updated.
+Use it as a base for your own needs
 
 # Usage
 
